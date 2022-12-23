@@ -1,5 +1,3 @@
-//Animation for Trio Tain
-
 //Color change
 let H1 = 0;
 let shade = 0;
